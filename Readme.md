@@ -18,6 +18,12 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
 
    [View Solution](./Easy/Palindrome/palindrome.cpp)
 
+3. **Roman to Integer**
+   - **Problem Statement:** Convert a given Roman numeral to its corresponding integer value, taking into account the subtraction rules for certain numeral pairs.
+   - **Solution:** Implemented a mapping of Roman numerals to integers and iterated through the string, adding or subtracting values based on the numeral rules.
+
+   [View Solution](./Easy/Roman/Roman.cpp)
+
 ## 🛠️ Tools & Technologies
 
 - **Language:** C++
