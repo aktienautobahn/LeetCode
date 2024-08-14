@@ -13,9 +13,6 @@ public:
                                         {'D', 500}, 
                                         {'M', 1000}};
 
-
-
-        
         int previous = 0;
         int sum = 0;
         int current = 0;
@@ -50,7 +47,6 @@ public:
 
 int main(void) {
 
-//    std::string input_arr[]
     // Instantiating the class
     Solution obj;
 
