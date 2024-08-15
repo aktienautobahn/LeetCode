@@ -36,6 +36,7 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
 - **Language:** C++
 - **PDE:** tmux + Neovim 
 - **Version Control:** Git
+- **Hardware:** Apple Silicon M1 Pro
 
 ## 📈 Future Plans
 
