@@ -24,6 +24,13 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
 
    [View Solution](./Easy/Roman/Roman.cpp)
 
+4. **Merge Two Sorted Lists**
+   - **Problem Statement:** Merge two sorted linked lists into one sorted list by splicing together the nodes.
+   - **Solution:** Implemented a two-pointer technique to iterate through both lists, merging nodes in sorted order into a new list.
+
+   [View Solution](./Easy/MergeTwoSortedLists/MergeTwoSortedLists.cpp)
+
+
 ## 🛠️ Tools & Technologies
 
 - **Language:** C++
