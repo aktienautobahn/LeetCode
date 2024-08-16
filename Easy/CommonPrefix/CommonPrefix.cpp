@@ -53,11 +53,7 @@ public:
 
 int main() {
     std::vector<std::string> strs = {"flower","flow","flight"};
-    // Optional: Print the contents of the vector to verify
-    //for (const std::string& str : strs) {
-    //    std::cout << str << std::endl;
-    // }
-    //
+
     Solution obj;
     std::string commPref = obj.longestCommonPrefix(strs);
 
