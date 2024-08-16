@@ -30,6 +30,11 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
 
    [View Solution](./Easy/MergeTwoSortedLists/MergeTwoSortedLists.cpp)
 
+5. **Longest Common Prefix**
+   - **Problem Statement:** Find the longest common prefix string amongst an array of strings. If no common prefix exists, return an empty string.
+   - **Solution:** Implemented a horizontal scanning approach, comparing prefixes of each string iteratively to determine the longest common prefix.
+
+   [View Solution](./Easy/CommonPrefix/CommonPrefix.cpp)
 
 ## 🛠️ Tools & Technologies
 
