@@ -1,8 +1,9 @@
 # DSA (Data Structures and Algorithms) LeetCode Solutions using C++
 
-Welcome to my repository where I showcase my journey in mastering Data Structures and Algorithms (DSA) using C++. This repository is a growing collection of solutions to common algorithmic challenges, categorized by difficulty.
+Welcome to my repository where I showcase my journey in mastering Data Structures and Algorithms (DSA) problems using C++. This repository is a growing collection of solutions to common algorithmic challenges, categorized by difficulty.
 
 ## 🚀 Current Progress
+[View on Leetcode](https://leetcode.com/u/aktienautobahn/)
 
 ### Easy Level
 
