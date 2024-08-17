@@ -37,6 +37,13 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
 
    [View Solution](./Easy/CommonPrefix/CommonPrefix.cpp)
 
+6. **Valid Parentheses**
+   - **Problem Statement:** Determine if a string containing only parentheses is valid, ensuring that open brackets are closed by the same type of brackets and in the correct order.
+   - **Solution:** Utilized a stack-based approach to track open brackets and ensure they are closed in the correct order by the corresponding bracket type.
+
+   [View Solution](./Easy/ValidParentheses/ValidParentheses.cpp)
+
+
 ## 🛠️ Tools & Technologies
 
 - **Language:** C++
