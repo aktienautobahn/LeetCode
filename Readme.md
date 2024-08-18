@@ -47,7 +47,7 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
    - **Problem Statement:** Remove duplicates from a sorted array in-place, ensuring that each unique element appears only once. Return the number of unique elements.
    - **Solution:** Implemented a two-pointer technique to overwrite duplicate elements and maintain the order of unique elements in the array.
 
-   [View Solution](./Easy/RemoveDuplicates/RemoveDuplicatesOptimized.cpp)
+   [View Solution](./Easy/26.RemoveDuplicates/26.RemoveDuplicatesOptimized.cpp)
 
 
 ## 🛠️ Tools & Technologies
