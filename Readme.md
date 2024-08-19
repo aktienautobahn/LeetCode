@@ -50,6 +50,13 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
    [View Solution](./Easy/26.RemoveDuplicates/26.RemoveDuplicatesOptimized.cpp)
 
 
+8. **Remove Element**
+   - **Problem Statement:** Remove all occurrences of a specified value from an array in-place, modifying the array so that the first `k` elements are those not equal to the given value. Return `k`, the count of elements that remain after removal.
+   - **Solution:** Implemented a two-pointer approach to overwrite elements equal to the specified value, without maintaining the order of the remaining elements.
+
+   [View Solution](./Easy/27.RemoveElement/27.RemoveElement.cpp)
+
+
 ## 🛠️ Tools & Technologies
 
 - **Language:** C++
