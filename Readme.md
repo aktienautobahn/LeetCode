@@ -56,6 +56,11 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
 
    [View Solution](./Easy/27.RemoveElement/27.RemoveElement.cpp)
 
+9. **Find the Index of the First Occurrence in a String**
+   - **Problem Statement:** Given two strings, `needle` and `haystack`, return the index of the first occurrence of `needle` in `haystack`, or `-1` if `needle` is not found.
+   - **Solution:** Implemented a string matching approach to search for the first occurrence of `needle` within `haystack` and return the corresponding index.
+
+   [View Solution](./Easy/28.IndexOfFirstOccurrence/28.IndexOfFirstOccurrence.cpp)
 
 ## 🛠️ Tools & Technologies
 
