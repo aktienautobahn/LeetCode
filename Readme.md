@@ -59,7 +59,7 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
 9. **Find the Index of the First Occurrence in a String**
    - **Problem Statement:** Given two strings, `needle` and `haystack`, return the index of the first occurrence of `needle` in `haystack`, or `-1` if `needle` is not found.
    - **Solution:** Implemented a string matching approach to search for the first occurrence of `needle` within `haystack` and return the corresponding index.
-28.IndexOfFirstOccurence
+
    [View Solution](./Easy/28.IndexOfFirstOccurence/28.IndexOfFirstOccurence.cpp)
 
 ## 🛠️ Tools & Technologies
