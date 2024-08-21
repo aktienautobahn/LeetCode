@@ -62,6 +62,12 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
 
    [View Solution](./Easy/28.IndexOfFirstOccurence/28.IndexOfFirstOccurence.cpp)
 
+10. **Length of Last Word**
+   - **Problem Statement:** Given a string `s` consisting of words and spaces, return the length of the last word in the string.
+   - **Solution:** Trim trailing spaces and find the length of the last word by splitting the string or iterating backward until the first non-space character is encountered.
+
+   [View Solution](./Easy/58.LengthOfLastWord/58.LengthOfLastWord.cpp)
+
 ## 🛠️ Tools & Technologies
 
 - **Language:** C++
