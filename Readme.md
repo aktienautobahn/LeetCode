@@ -63,10 +63,15 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
    [View Solution](./Easy/28.IndexOfFirstOccurence/28.IndexOfFirstOccurence.cpp)
 
 10. **Length of Last Word**
-   - **Problem Statement:** Given a string `s` consisting of words and spaces, return the length of the last word in the string.
-   - **Solution:** Iterate over the string from the end and count from the first english character till the first empty space, given the character counter is greater than zero.
-
+    - **Problem Statement:** Given a string `s` consisting of words and spaces, return the length of the last word in the string.
+    - **Solution:** Iterate over the string from the end and count from the first english character till the first empty space, given the character counter is greater than zero.
    [View Solution](./Easy/58.LengthOfLastWord/58.LengthOfLastWord.cpp)
+
+11.  **Search Insert Position**
+     - **Problem statement** Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if inserted in order.
+     - **Approach:** Implemented binary search to efficiently find the target or its insertion position.
+   [View Solution](./Easy/35.SearchInsertPosition/35.SearchInsertPosition.cpp)
+
 
 
 ## 🛠️ Tools & Technologies
