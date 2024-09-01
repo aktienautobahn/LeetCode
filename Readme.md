@@ -72,7 +72,10 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
      - **Approach:** Implemented binary search to efficiently find the target or its insertion position.
    [View Solution](./Easy/35.SearchInsertPosition/35.SearchInsertPosition.cpp)
 
-
+12. **Plus one**
+    - **Problem statement** Given a large integer represented as a vector of digits, increment the integer by one and return the resulting vector of digits.
+    - **Approach:** Iterate from the least significant digit to the most significant, handling carry-over. Insert a new digit at the beginning if a carry affects the most significant digit.
+   [View Solution](./Easy/66.PlusOne/66.PlusOne.cpp)
 
 ## 🛠️ Tools & Technologies
 
