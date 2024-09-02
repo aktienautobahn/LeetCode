@@ -77,6 +77,11 @@ Welcome to my repository where I showcase my journey in mastering Data Structure
     - **Approach:** Iterate from the least significant digit to the most significant, handling carry-over. Insert a new digit at the beginning if a carry affects the most significant digit.
    [View Solution](./Easy/66.PlusOne/66.PlusOne.cpp)
 
+13. **AddBinary**
+    - **Problem statement:** Given two binary strings `a` and `b`, return their sum as a binary string.
+    - **Approach:** Implement a full-adder logic to sum the binary strings. Start iterating from the least significant bit (end of the strings) and move towards the most significant bit, managing the carry. Append the result to a string and reverse it at the end to get the final binary sum.
+   [View Solution](./Easy/67.AddBinary/67.AddBinary.cpp)
+
 ## 🛠️ Tools & Technologies
 
 - **Language:** C++
